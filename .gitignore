@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Model files
+*.pkl
+
+# Data files
+*.csv
+
+# Streamlit / Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.cache/
+
+.bak
