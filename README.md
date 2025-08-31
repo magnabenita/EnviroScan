@@ -22,8 +22,7 @@ A real-time global air pollution monitoring and source prediction system built u
 
 ## Project Structure
 
-```
-.
+---
 ├── data/
 │   ├── global_locations_cleaned.csv
 │   ├── weather_data.csv
@@ -46,7 +45,7 @@ A real-time global air pollution monitoring and source prediction system built u
 │   └── app.py
 ├── requirements.txt
 └── README.md
-```
+---
 
 ---
 
