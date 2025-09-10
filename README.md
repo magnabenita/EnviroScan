@@ -71,10 +71,10 @@ A real-time global air pollution monitoring and source prediction system built u
 
 4. **Fetch and preprocess data:**
    ```bash
-   python scripts/fetch_openq.py
+   python scripts/fetch_openaq.py
    python scripts/fetch_weather.py
    python scripts/fetch_pollution.py
-   python scripts/preproces.py
+   python scripts/preprocess.py
    python scripts/merge_for_labeling.py
    python scripts/label_rules_advanced.py
    ```
